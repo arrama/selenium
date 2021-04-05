@@ -3,7 +3,7 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
-twitter_username = "e100ss"
+twitter_username = "JamesSilman"
 browser = webdriver.Chrome('/Users/ada/Downloads/chromedriver')
 browser.get("https://twitter.com/" + twitter_username)
 
